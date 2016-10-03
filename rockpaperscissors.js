@@ -46,4 +46,5 @@ var compare = function(choice1, choice2) {
     ;
 }
 
-compare(userChoice, computerChoice);
+result = compare(userChoice, computerChoice);
+alert(result);
